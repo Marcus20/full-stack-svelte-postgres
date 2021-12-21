@@ -1,0 +1,15 @@
+:root {
+    font-family: Arial;
+    --primary-color: #b9c6d2;
+}
+
+body {
+    background-color: var(--primary-color);
+    min-height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
